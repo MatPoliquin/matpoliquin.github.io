@@ -16,7 +16,7 @@
 title: Mathieu Poliquin Homepage
 email: mathieu.poliquin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Indie Machine Learning and Video Game Dev
+  Programmer
 #baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.mathieupoliquin.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MatPoliquin
