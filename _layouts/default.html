@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="msvalidate.01" content="319EFB064A7E2F4BB1EF79F58636E6B9" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" type="image/png" href="{{site.url}}/favicon.png">
+
+      <!-- Import TensorFlow.js -->
+      <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js"> </script>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5702375066346037",
+    enable_page_level_ads: true
+  });
+</script>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <!--<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>-->
+
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          {{ site.title | default: site.github.repository_name }}
+        </a>
+        
+        <!--<div class="grid-container">
+          <div class="grid-child purple">
+              {% if site.logo %}
+              <a href="{{site.url}}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
+              {% endif %}
+    
+              <p>{{ site.description | default: site.github.project_tagline }}</p>
+          </div>-->
+      
+          <!--<div class="grid-child green">-->
+            <a href="{{site.url}}/About.html"><strong>About</strong></a>
+            <a href="{{site.url}}/Best-Hardware-Machine-Learning.html"><strong>Hardware guide</strong></a>
+    
+          <!--</div>-->
+        
+      </div>
+
+        <!--{% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
+
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}-->
+
+      </header>
+      <div class="container">
+        <section id="main_content">
+          {{ content }}
+        </section>
+      </div>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
