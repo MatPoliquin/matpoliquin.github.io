@@ -18,3 +18,6 @@ You can find me on my youtube channel and this blog where I mostly talk about ML
 *   [MTGO ID:](https://magic.wizards.com/en/mtgo) SnapcasterRecall, [My Decks](https://www.mtggoldfish.com/decks)
 
 email: mathieu.poliquin@gmail.com
+
+
+<iframe src="https://store.steampowered.com/widget/1059010/" frameborder="0" width="646" height="190"></iframe>
