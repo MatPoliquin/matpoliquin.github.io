@@ -20,7 +20,7 @@ You can find me on my youtube channel and blog where I mostly talk about ML:
 ### Social links
 *   [Twitter](https://twitter.com/MatPoliquin)
 *   [GitHub](https://github.com/MatPoliquin)
-*   [Linkedin](https://www.linkedin.com/public-profile/in/mathieupoliquin)
+*   [Linkedin](https://www.linkedin.com/in/mathieupoliquin/)
 *   [Instagram](https://www.instagram.com/matpoliquin/)  
 *   [MTGO ID:](https://magic.wizards.com/en/mtgo) SnapcasterRecall, [My Decks](https://www.mtggoldfish.com/decks)
 *   email: mathieu.poliquin@gmail.com
