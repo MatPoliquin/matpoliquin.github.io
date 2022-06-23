@@ -12,7 +12,7 @@ called [AI ARCADE](https://www.codemeon.com)
 <br>
 
 You can find me on my youtube channel and blog where I mostly talk about ML:
-*   [Youtube Channel](https://www.youtube.com/c/mathieupoliquin)
+*   [Youtube Channel](https://www.youtube.com/c/videogamesai)
 *   [videogames.ai](https://www.videogames.ai)
 
 
@@ -22,7 +22,7 @@ You can find me on my youtube channel and blog where I mostly talk about ML:
 *   [GitHub](https://github.com/MatPoliquin)
 *   [Linkedin](https://www.linkedin.com/in/mathieupoliquin/)
 *   [Instagram](https://www.instagram.com/matpoliquin/)  
-*   [MTGO ID:](https://magic.wizards.com/en/mtgo) SnapcasterRecall, [My Decks](https://www.mtggoldfish.com/decks)
+*   [MTGO ID:](https://magic.wizards.com/en/mtgo) SnapcasterRecall
 *   email: mathieu.poliquin@gmail.com
 
 
