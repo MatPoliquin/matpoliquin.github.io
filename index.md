@@ -12,7 +12,7 @@ You can find me on my youtube channel and blog where I mostly talk about ML:
 *   [videogames.ai](https://www.videogames.ai)
 
 I created stable-retro a fork of OpenAI retro
-*   [GitHub](https://github.com/MatPoliquin/stable-retro)
+*   [stable-retro on GitHub](https://github.com/MatPoliquin/stable-retro)
 
 ### Social links
 *   [Twitter](https://twitter.com/MatPoliquin)
