@@ -14,11 +14,10 @@ You can find me on my youtube channel and blog where I mostly talk about ML:
 I created stable-retro a fork of OpenAI retro
 *   [stable-retro on GitHub](https://github.com/MatPoliquin/stable-retro)
 
-### Social links
+### links
 *   [Twitter](https://twitter.com/MatPoliquin)
 *   [GitHub](https://github.com/MatPoliquin)
 *   [Linkedin](https://www.linkedin.com/in/mathieupoliquin/)
-*   [Instagram](https://www.instagram.com/matpoliquin/)  
 *   [MTGO ID:](https://magic.wizards.com/en/mtgo) SnapcasterRecall
 *   email: mathieu.poliquin@gmail.com
 
