@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Mathieu Poliquin Homepage
+title:  "Mathieu Poliquin Homepage"
 tags: [mathieu poliquin, programmer]
 ---
 
