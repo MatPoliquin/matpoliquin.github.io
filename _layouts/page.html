@@ -3,7 +3,9 @@ layout: default
 ---
 
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
+{% unless page.url == "/" %}
 <h1>{{ page.title }}</h1>
+{% endunless %}
 
 
 <!-- <p class="view">by {{ page.author | default: site.author }}</p> -->
