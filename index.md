@@ -6,11 +6,11 @@ tags: [mathieu poliquin, programmer, game dev, machine learning]
 
 Hello, my name is Mathieu Poliquin and I am a programmer in the videogames industry
 
-### Projects
-I created stable-retro a fork of OpenAI's retro, now part of Farama Foundation
+## Projects
+I created stable-retro a fork of OpenAI's gym-retro. stable-retro is now part of Farama Foundation
 *   [stable-retro on GitHub](https://github.com/Farama-Foundation/Stable-Retro)
 
-### Citations
+## Citations
 stable-retro has been cited or mentioned in the following research papers:
 **2026:**
 *   [ReactiveGWM: Steering NPC in Reactive Game World Models](https://arxiv.org/pdf/2605.15256)
@@ -26,11 +26,7 @@ stable-retro has been cited or mentioned in the following research papers:
 *   [Dissecting Discrete Soft Actor-Critic: Limitations and Principled Alternatives](https://arxiv.org/pdf/2509.09838)
 
 
-You can find me on my youtube channel and blog where I mostly talk about ML:
-*   [Youtube Channel](https://www.youtube.com/c/videogamesai)
-*   [videogames.ai](https://www.videogames.ai)
-
-### links
+## Links
 *   [Google Scholar](https://scholar.google.com/citations?user=uBoDrpIAAAAJ)
 *   [GitHub](https://github.com/MatPoliquin)
 *   [Linkedin](https://www.linkedin.com/in/mathieupoliquin/)
@@ -38,6 +34,9 @@ You can find me on my youtube channel and blog where I mostly talk about ML:
 *   [MTGO ID:](https://magic.wizards.com/en/mtgo) SnapcasterRecall
 *   email: mathieu.poliquin@gmail.com
 
+You can find me on my youtube channel and blog where I mostly talk about ML:
+*   [Youtube Channel](https://www.youtube.com/c/videogamesai)
+*   [videogames.ai](https://www.videogames.ai)
 
 
 
