@@ -12,6 +12,7 @@ I created stable-retro a fork of OpenAI's gym-retro. stable-retro is now part of
 
 ## Citations
 stable-retro has been cited or mentioned in the following research papers:
+
 **2026:**
 *   [ReactiveGWM: Steering NPC in Reactive Game World Models](https://arxiv.org/pdf/2605.15256)
 *   [StatePlay: State-Aware Game World Models for Mechanics-Consistent Generation](https://arxiv.org/html/2607.26754v1)
